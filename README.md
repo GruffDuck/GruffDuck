@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **yalinbasmehmet@gmail.com**
 
-- ⚡ Fun fact **I think I am Funny**
+
 
 
 
