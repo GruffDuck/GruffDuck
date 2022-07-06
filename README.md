@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mehmet</h1>
 <h3 align="center">A passionate game developer from Turkey</h3>
 
-- 🔭 I’m currently working on [AI Project](https://github.com/GruffDuck/AI-Project)
-
 - 🌱 I’m currently learning **Unity**
 
 - 💬 Ask me about **C#**
